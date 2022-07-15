@@ -1,0 +1,14 @@
+/* body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: vh;
+    overflow: hidden;
+    background-color: #1E1E1E;
+} */
+
+
+.w-100 {
+    width: 100% !important;
+    overflow:hidden;
+  }

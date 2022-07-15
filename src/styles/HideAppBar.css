@@ -1,0 +1,19 @@
+.Appbar{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.appbar-img {
+    width: 70px;
+    height: 70px;
+    cursor: pointer;
+}
+
+.div-appbar {
+     cursor: pointer; 
+}
+
+.icon:hover {
+    color:grey
+}
