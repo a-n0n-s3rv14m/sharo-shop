@@ -17,7 +17,6 @@
     "react-bootstrap": "^2.4.0",
     "react-box-flip": "^1.0.6",
     "react-dom": "^18.1.0",
-    "react-flipcard": "^0.2.1",
     "react-scripts": "5.0.1",
     "react-slideshow-image": "^4.0.0",
     "styled-components": "^5.3.5",
